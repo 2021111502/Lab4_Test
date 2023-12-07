@@ -14,6 +14,8 @@ public class L2021111502_4_Test {
      * 数组元素小于2
      */
     @Test public void test1(){
+        //用来测试
+        int i=1;
         Solution4 s =new Solution4();
         int[] nums={10};
         assertEquals(1,s.maximumGap(nums));
