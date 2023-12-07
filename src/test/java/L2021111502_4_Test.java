@@ -18,7 +18,7 @@ public class L2021111502_4_Test {
         int j=1;
         Solution4 s =new Solution4();
         int[] nums={10};
-        assertEquals(1,s.maximumGap(nums));
+        assertEquals(0,s.maximumGap(nums));
 
     }
     /**
